@@ -3,6 +3,7 @@
 # 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parthpanchal26&label=Profile%20views&color=0e75b6&style=flat" alt="parthpanchal26" /> </p>
 
+![Snake animation - dark](https://github.com/parthpanchal26/parthpanchal26/blob/output/github-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
