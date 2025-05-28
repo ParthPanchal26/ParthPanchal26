@@ -19,15 +19,15 @@
 
 <div style="display: flex; flex-direction: row; align-items: center; gap: 1rem;">
   <div style="width: 200px; background: white; padding: 1rem; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthpanchal26&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 35%;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parthpanchal26&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="width: 60%;" />
   </div>
 
   <div style="width: 200px; background: white; padding: 1rem; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github-readme-stats.vercel.app/api?username=parthpanchal26&show_icons=true&locale=en" alt="GitHub Stats" style="width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=parthpanchal26&show_icons=true&locale=en" alt="GitHub Stats" style="width: 65%;" />
   </div>
 
   <div style="width: 200px; background: white; padding: 1rem; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthpanchal26" alt="GitHub Streak" style="width: 50%;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=parthpanchal26" alt="GitHub Streak" style="width: 80%;" />
   </div>
 </div>
 
