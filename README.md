@@ -32,8 +32,11 @@
   </div>
 </div>
 
-
-
 <br />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parthpanchal26" alt="parthpanchal26" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=parthpanchal26&theme=onestar" alt="parthpanchal26" />
+  </a> 
+</p>
+
