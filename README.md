@@ -34,9 +34,9 @@
 
 <br />
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=parthpanchal26&theme=onestar" alt="parthpanchal26" />
+    <img src="https://github-profile-trophy.vercel.app/?username=parthpanchal26&theme=onestar" alt="parthpanchal26" style="width: 180%" />
   </a> 
 </p>
 
