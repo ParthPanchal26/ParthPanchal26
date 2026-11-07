@@ -10,7 +10,7 @@
 
 </div>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -25,11 +25,41 @@ const parth = {
     "System Design",
   ],
   currentlyLearning: ["Generative AI", "System Design", "Design Patterns"],
-  funFact: "I turn coffee into code and prompts into agents ☕🤖",
+  funFact: "I solve Rubik's cubes, chess puzzles, and occasionally production bugs.",
 };
 ```
 
----
+
+
+## 🧠 How I Build AI Apps
+
+```mermaid
+flowchart LR
+    U(["👤 User"]) --> FE["🖥️ Frontend"]
+    FE --> AUTH{"🔐 Authenticated?"}
+    AUTH -- "No" --> DENY["❌ Denied"]
+    AUTH -- "Yes" --> ROLE["🎭 Role Assigned"]
+    ROLE --> BE["⚙️ Backend"]
+    BE --> AG["🤖 AI Agent"]
+    AG --> RAG["📚 RAG Pipeline"]
+    RAG --> VS[("Vector DB")]
+    AG --> LLM["✨ LLM"]
+    LLM --> RESP["💬 Response"]
+    RESP --> FE
+
+    classDef user fill:#7b2ff7,stroke:#7b2ff7,color:#fff
+    classDef svc fill:#0e75b6,stroke:#0e75b6,color:#fff
+    classDef sec fill:#b3261e,stroke:#b3261e,color:#fff
+    classDef ai fill:#1c3c3c,stroke:#00c4b3,color:#fff
+    classDef store fill:#2d333b,stroke:#8b949e,color:#fff
+    class U,FE user
+    class BE svc
+    class AUTH,DENY,ROLE sec
+    class AG,RAG,LLM,RESP ai
+    class VS store
+```
+
+
 
 ## 🛠️ Tech Stack
 
@@ -71,7 +101,7 @@ const parth = {
 
 </div>
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -92,7 +122,7 @@ const parth = {
 
 </div>
 
----
+
 
 ## 🏆 Trophies
 
@@ -102,19 +132,26 @@ const parth = {
   </a>
 </div>
 
----
+
 
 ## 📈 Contribution Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=parthpanchal26&theme=react-dark&hide_border=true&bg_color=0d1117&color=0e75b6&line=7b2ff7&point=ffffff" />
 
----
+
 
 ## 🐍 Contribution Snake
 
 <img width="100%" src="https://raw.githubusercontent.com/parthpanchal26/parthpanchal26/output/github-snake-dark.svg" alt="snake animation" />
 
----
+
+
+## 🧠💡 Leetcode Stats
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/parth_dev?theme=dark&font=Fira%20Code&ext=heatmap" />
+</div>
+
+
 
 ## 🤝 Let's Connect
 
@@ -127,8 +164,11 @@ const parth = {
 
 <br /><br />
 
-⭐ *If you like my work, drop a star on my repos!* ⭐
+👀 Not many make it this far!
 
+If you did, and you liked what you saw, let's connect! 🤝
+
+⭐ Don't forget to follow me!
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=120&section=footer" />
