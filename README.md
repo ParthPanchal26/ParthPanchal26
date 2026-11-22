@@ -1,5 +1,6 @@
 <!-- HEADER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=230&section=header&text=Parth%20Panchal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=24" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:7b2ff7&height=230&section=header&text=Parth%20Panchal&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Software%20Engineer&descAlignY=58&descSize=24" /> -->
+<img width="100%" src="./assets/header.svg" alt="Parth Panchal - Software Engineer" />
 
 <div align="center">
 
@@ -171,4 +172,6 @@ If you did, and you liked what you saw, let's connect! 🤝
 ⭐ Don't forget to follow me!
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=120&section=footer" />
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2ff7,100:0e75b6&height=120&section=footer" /> -->
+<!-- FOOTER -->
+<img width="100%" src="./assets/footer.svg" alt="footer" />
